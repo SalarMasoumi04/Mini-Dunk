@@ -1,2 +1,3 @@
-#I will Create a Video Game and it will be amazing
-#I will up;oad my stuff here
+# Mini Dunk
+# Mini Dunk is simple Basketball game that I create it with Unity Engine
+# It's my first official Video Game and it's my University project too
